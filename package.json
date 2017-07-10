@@ -1,0 +1,12 @@
+{
+  "name": "self-intro",
+  "version": "1.0.0",
+  "description": "Self-introduction presentation",
+  "main": "index.html",
+  "repository": "https://github.com/mark-vrb/self-intro.git",
+  "author": "Mark Varabyou",
+  "license": "MIT",
+  "dependencies": {
+    "reveal.js": "^3.5.0"
+  }
+}
